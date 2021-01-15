@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AmaroT/angular-udemy/issues"
   },
-  "homepage": "https://github.com/AmaroT/angular-udemy#readme"
+  "homepage": "https://github.com/AmaroT/angular-udemy#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
