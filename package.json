@@ -1,0 +1,23 @@
+{
+  "name": "first-package-with-npm",
+  "version": "1.0.0",
+  "description": "[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png \"Go Full Stack with Spring Boot and Angular\")](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaroT/angular-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaroT/angular-udemy/issues"
+  },
+  "homepage": "https://github.com/AmaroT/angular-udemy#readme",
+  "dependencies": {
+    "@angular-devkit/schematics": "^11.0.7",
+    "jquery": "^3.5.1"
+  }
+}
